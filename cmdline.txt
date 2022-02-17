@@ -1,0 +1,1 @@
+root=UUID=6b5837c0-008b-4385-b7a2-2124c7b75c20 rw rootwait console=serial0,115200 console=tty3 selinux=0 plymouth.ignore-serial-consoles smsc95xx.turbo_mode=N dwc_otg.lpm_enable=0 kgdboc=serial0,115200
